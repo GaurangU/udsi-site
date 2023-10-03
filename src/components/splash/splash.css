@@ -1,0 +1,82 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  background: #ffb101;
+  height: 100vh;
+}
+.header {
+  background: #ffb101;
+  height: 5rem;
+}
+
+/* ---- Body Styles ---- */
+.body {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  justify-content: center;
+}
+.body .title {
+  align-self: center;
+  
+  transform: skew(-10deg, -10deg);
+}
+
+.body .title::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 7rem;
+  height: 5rem;
+  margin-right: 1rem;
+  left: -8rem;
+  top: 0;
+  background: #000;
+}
+.body .title::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 7rem;
+  height: 5rem;
+  right: -8rem;
+  top: 0;
+  background: #000;
+}
+
+.top {
+  display: block;
+  font-family: Gruppo;
+  font-size: 3rem;
+  font-weight: 800;
+}
+.under {
+  display: block;
+  font-family: "Gruppo";
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.comment {
+  margin-top: 3rem;
+  font-family: 'Anton';
+  font-size: 2rem;
+}
+
+/* ---- Footer Styles ---- */
+.footer {
+  display: block;
+  width: 100%;
+}
+.hazard-background {
+  height: 3rem;
+  color: white;
+  padding: 5px;
+  background-image: repeating-linear-gradient(
+    -55deg,
+    #000,
+    #000 20px,
+    #ffb101 21px,
+    #ffb101 40px
+  );
+}
