@@ -8,7 +8,7 @@ class Splash extends Component {
         {/* <div className="header"></div> */}
         <div className="body">
           <div className="title">
-            <title className="top">Urdhav Shakti</title>
+            <title className="top">UrdhavShakti</title>
             <title className="under">Innovations Private Limited</title>
           </div>
           <div className="comment">COMING SOON</div>
