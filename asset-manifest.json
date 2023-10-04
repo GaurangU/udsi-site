@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gaurangu.github.io/udsi-site/static/css/main.e71a92f1.css",
+    "main.js": "/gaurangu.github.io/udsi-site/static/js/main.a449d267.js",
+    "static/js/787.f374743d.chunk.js": "/gaurangu.github.io/udsi-site/static/js/787.f374743d.chunk.js",
+    "index.html": "/gaurangu.github.io/udsi-site/index.html",
+    "main.e71a92f1.css.map": "/gaurangu.github.io/udsi-site/static/css/main.e71a92f1.css.map",
+    "main.a449d267.js.map": "/gaurangu.github.io/udsi-site/static/js/main.a449d267.js.map",
+    "787.f374743d.chunk.js.map": "/gaurangu.github.io/udsi-site/static/js/787.f374743d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71a92f1.css",
+    "static/js/main.a449d267.js"
+  ]
+}
