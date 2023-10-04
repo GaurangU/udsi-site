@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gaurangu.github.io/udsi-site/static/css/main.e71a92f1.css",
-    "main.js": "/gaurangu.github.io/udsi-site/static/js/main.a449d267.js",
-    "static/js/787.f374743d.chunk.js": "/gaurangu.github.io/udsi-site/static/js/787.f374743d.chunk.js",
-    "index.html": "/gaurangu.github.io/udsi-site/index.html",
-    "main.e71a92f1.css.map": "/gaurangu.github.io/udsi-site/static/css/main.e71a92f1.css.map",
-    "main.a449d267.js.map": "/gaurangu.github.io/udsi-site/static/js/main.a449d267.js.map",
-    "787.f374743d.chunk.js.map": "/gaurangu.github.io/udsi-site/static/js/787.f374743d.chunk.js.map"
+    "main.css": "/udsi-site/static/css/main.e71a92f1.css",
+    "main.js": "/udsi-site/static/js/main.4209f92c.js",
+    "static/js/787.f374743d.chunk.js": "/udsi-site/static/js/787.f374743d.chunk.js",
+    "index.html": "/udsi-site/index.html",
+    "main.e71a92f1.css.map": "/udsi-site/static/css/main.e71a92f1.css.map",
+    "main.4209f92c.js.map": "/udsi-site/static/js/main.4209f92c.js.map",
+    "787.f374743d.chunk.js.map": "/udsi-site/static/js/787.f374743d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e71a92f1.css",
-    "static/js/main.a449d267.js"
+    "static/js/main.4209f92c.js"
   ]
 }
